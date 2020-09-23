@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Barru</string>
+    <string name="submit">SUBMIT</string>
+    <string name="cancel">CANCEL</string>
+    <string name="hello_yudha_yunanto_putra">Hello Yudha Yunanto Putra!</string>
+    <string name="data_received" />
+</resources>
